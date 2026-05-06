@@ -6,7 +6,7 @@ This project investigates inference-time ablation in large language models by co
 
 A few aspects of the original proposal were simplified during implementation. Instead of comparing multiple pretrained models and a wider benchmark suite, the final experiment used only Pythia-410M as the pretrained reference model and evaluated performance only on HellaSwag and MMLU. 
 
-The main purpose of this project is educational and it was done with the supervision of PhD candidate Maab Elrashid, and for Professor Mirco Ravanelli’s class Comp432(Machine Learning), at Concordia University in the 2026 winter semester. 
+The main purpose of this project is educational and it was done with the supervision of PhD candidate Maab Elrashid, and for Professor Mirco Ravanelli’s class Comp432(Machine Learning), at Concordia University in the 2026 winter semester. As pointed out by Professor Mirco Ravanelli, the results of this experiment can't be generalized without the analysis a larger set of models. As such, the results are specific to the models used in this experiment and were exploratory and educational in nature. 
 
 ## Experiment Setup and Tools Used
 
